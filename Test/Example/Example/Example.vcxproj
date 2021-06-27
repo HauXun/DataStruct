@@ -141,6 +141,15 @@
   <ItemGroup>
     <ClCompile Include="Example.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="header.h" />
+    <ClInclude Include="menu.h" />
+    <ClInclude Include="thuvien.h" />
+    <ClInclude Include="xulymenu.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="hocvien.txt" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
