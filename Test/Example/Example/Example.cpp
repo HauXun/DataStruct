@@ -5,7 +5,6 @@
 #include <iomanip>
 #include <io.h>
 #include <fcntl.h>
-#include <string.h>
 
 using namespace std;
 
