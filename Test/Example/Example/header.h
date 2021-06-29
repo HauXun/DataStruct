@@ -4,6 +4,12 @@ void NghiemTucMode()
 	_setmode(_fileno(stdout), _O_U16TEXT);
 }
 
+void BinhThuongMode()
+{
+	_setmode(_fileno(stdin), _O_WTEXT);
+	_setmode(_fileno(stdout), _O_WTEXT);
+}
+
 wstring PadRight(wstring const& str, size_t s, char c)
 {
 	return str + wstring(s, c);
