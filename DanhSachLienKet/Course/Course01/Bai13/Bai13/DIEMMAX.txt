@@ -1,0 +1,5 @@
+Nguyen Van A, DSIK23, 12/12/2015, 6.9, 
+Nguyen Van Teo, DSIK22, 12/12/2014, 6.8, 
+Nguyen Van B, DSIK24, 12/12/2016, 6.7, 
+Nguyen Van C, DSIK25, 12/12/2017, 6.6, 
+Nguyen Van D, DSIK26, 12/12/2018, 6.5, 
